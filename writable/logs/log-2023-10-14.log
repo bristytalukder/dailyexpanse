@@ -1,0 +1,56 @@
+ERROR - 2023-10-14 04:44:16 --> mysqli_sql_exception: Table 'category' already exists in E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('CREATE TABLE `c...', 0)
+#1 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `c...')
+#2 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `c...')
+#3 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\Forge.php(546): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `c...')
+#4 E:\xamp\htdocs\codeigniter_daily_expanse\app\Database\Migrations\2023-10-11-170224_CreateCategoryTable.php(25): CodeIgniter\Database\Forge->createTable('category')
+#5 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MigrationRunner.php(877): App\Database\Migrations\CreateCategoryTable->up()
+#6 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MigrationRunner.php(188): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 E:\xamp\htdocs\codeigniter_daily_expanse\system\Commands\Database\Migrate.php(84): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 E:\xamp\htdocs\codeigniter_daily_expanse\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 E:\xamp\htdocs\codeigniter_daily_expanse\system\CLI\Console.php(37): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 E:\xamp\htdocs\codeigniter_daily_expanse\spark(102): CodeIgniter\CLI\Console->run()
+#11 {main}
+ERROR - 2023-10-14 04:48:04 --> mysqli_sql_exception: Table 'category' already exists in E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('CREATE TABLE `c...', 0)
+#1 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `c...')
+#2 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `c...')
+#3 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\Forge.php(546): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `c...')
+#4 E:\xamp\htdocs\codeigniter_daily_expanse\app\Database\Migrations\2023-10-11-170224_CreateCategoryTable.php(25): CodeIgniter\Database\Forge->createTable('category')
+#5 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MigrationRunner.php(877): App\Database\Migrations\CreateCategoryTable->up()
+#6 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MigrationRunner.php(188): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 E:\xamp\htdocs\codeigniter_daily_expanse\system\Commands\Database\Migrate.php(84): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 E:\xamp\htdocs\codeigniter_daily_expanse\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 E:\xamp\htdocs\codeigniter_daily_expanse\system\CLI\Console.php(37): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 E:\xamp\htdocs\codeigniter_daily_expanse\spark(102): CodeIgniter\CLI\Console->run()
+#11 {main}
+ERROR - 2023-10-14 05:12:57 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'cidet', 3306, '', 0)
+#1 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(1409): CodeIgniter\Database\BaseConnection->query('SHOW TABLES FRO...')
+#4 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(1428): CodeIgniter\Database\BaseConnection->listTables()
+#5 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MigrationRunner.php(768): CodeIgniter\Database\BaseConnection->tableExists('migrations')
+#6 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MigrationRunner.php(168): CodeIgniter\Database\MigrationRunner->ensureTable()
+#7 E:\xamp\htdocs\codeigniter_daily_expanse\system\Commands\Database\Migrate.php(84): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 E:\xamp\htdocs\codeigniter_daily_expanse\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 E:\xamp\htdocs\codeigniter_daily_expanse\system\CLI\Console.php(37): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 E:\xamp\htdocs\codeigniter_daily_expanse\spark(102): CodeIgniter\CLI\Console->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(1409): CodeIgniter\Database\BaseConnection->query('SHOW TABLES FRO...')
+#3 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(1428): CodeIgniter\Database\BaseConnection->listTables()
+#4 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MigrationRunner.php(768): CodeIgniter\Database\BaseConnection->tableExists('migrations')
+#5 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MigrationRunner.php(168): CodeIgniter\Database\MigrationRunner->ensureTable()
+#6 E:\xamp\htdocs\codeigniter_daily_expanse\system\Commands\Database\Migrate.php(84): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#7 E:\xamp\htdocs\codeigniter_daily_expanse\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\Migrate->run(Array)
+#8 E:\xamp\htdocs\codeigniter_daily_expanse\system\CLI\Console.php(37): CodeIgniter\CLI\Commands->run('migrate', Array)
+#9 E:\xamp\htdocs\codeigniter_daily_expanse\spark(102): CodeIgniter\CLI\Console->run()
+#10 {main}

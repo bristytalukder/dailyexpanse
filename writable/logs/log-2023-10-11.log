@@ -1,0 +1,1161 @@
+CRITICAL - 2023-10-11 04:42:48 --> Invalid file: "pages/category/categoryAdd.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/category/categoryAdd.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/categoryAdd', [], true)
+ 3 APPPATH\Controllers\CategoryController.php(11): view('pages/category/categoryAdd')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 04:47:44 --> Invalid file: "pages/category/categoryAdd.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/category/categoryAdd.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/categoryAdd', [], true)
+ 3 APPPATH\Controllers\CategoryController.php(11): view('pages/category/categoryAdd')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 04:47:55 --> Invalid file: "pages/category/categoryAdd.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/category/categoryAdd.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/categoryAdd', [], true)
+ 3 APPPATH\Controllers\CategoryController.php(11): view('pages/category/categoryAdd')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 04:49:00 --> Invalid file: "pages/category/categoryAdd.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/category/categoryAdd.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/categoryAdd', [], true)
+ 3 APPPATH\Controllers\CategoryController.php(11): view('pages/category/categoryAdd')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 04:49:38 --> Invalid file: "pages/category/categoryAdd.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/category/categoryAdd.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/categoryAdd', [], true)
+ 3 APPPATH\Controllers\CategoryController.php(11): view('pages/category/categoryAdd')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 04:51:47 --> Invalid file: "pages/category/categoryAdd.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/category/categoryAdd.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/categoryAdd', [], true)
+ 3 APPPATH\Controllers\CategoryController.php(11): view('pages/category/categoryAdd')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 04:51:53 --> Invalid file: "pages/category/categoryAdd.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/category/categoryAdd.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/categoryAdd', [], true)
+ 3 APPPATH\Controllers\CategoryController.php(11): view('pages/category/categoryAdd')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 05:33:34 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\Database.php(66): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\Config.php(108): CodeIgniter\Database\Database->loadForge(Object(CodeIgniter\Database\MySQLi\Connection))
+#4 E:\xamp\htdocs\codeigniter_daily_expanse\system\Commands\Database\CreateDatabase.php(134): CodeIgniter\Database\Config::forge()
+#5 E:\xamp\htdocs\codeigniter_daily_expanse\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\CreateDatabase->run(Array)
+#6 E:\xamp\htdocs\codeigniter_daily_expanse\system\CLI\Console.php(37): CodeIgniter\CLI\Commands->run('db:create', Array)
+#7 E:\xamp\htdocs\codeigniter_daily_expanse\spark(102): CodeIgniter\CLI\Console->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: YES) in E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\Database.php(66): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\Config.php(108): CodeIgniter\Database\Database->loadForge(Object(CodeIgniter\Database\MySQLi\Connection))
+#3 E:\xamp\htdocs\codeigniter_daily_expanse\system\Commands\Database\CreateDatabase.php(134): CodeIgniter\Database\Config::forge()
+#4 E:\xamp\htdocs\codeigniter_daily_expanse\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\CreateDatabase->run(Array)
+#5 E:\xamp\htdocs\codeigniter_daily_expanse\system\CLI\Console.php(37): CodeIgniter\CLI\Commands->run('db:create', Array)
+#6 E:\xamp\htdocs\codeigniter_daily_expanse\spark(102): CodeIgniter\CLI\Console->run()
+#7 {main}
+ERROR - 2023-10-11 05:35:15 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\Database.php(66): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\Config.php(108): CodeIgniter\Database\Database->loadForge(Object(CodeIgniter\Database\MySQLi\Connection))
+#4 E:\xamp\htdocs\codeigniter_daily_expanse\system\Commands\Database\CreateDatabase.php(134): CodeIgniter\Database\Config::forge()
+#5 E:\xamp\htdocs\codeigniter_daily_expanse\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\CreateDatabase->run(Array)
+#6 E:\xamp\htdocs\codeigniter_daily_expanse\system\CLI\Console.php(37): CodeIgniter\CLI\Commands->run('db:create', Array)
+#7 E:\xamp\htdocs\codeigniter_daily_expanse\spark(102): CodeIgniter\CLI\Console->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\Database.php(66): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\Config.php(108): CodeIgniter\Database\Database->loadForge(Object(CodeIgniter\Database\MySQLi\Connection))
+#3 E:\xamp\htdocs\codeigniter_daily_expanse\system\Commands\Database\CreateDatabase.php(134): CodeIgniter\Database\Config::forge()
+#4 E:\xamp\htdocs\codeigniter_daily_expanse\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\CreateDatabase->run(Array)
+#5 E:\xamp\htdocs\codeigniter_daily_expanse\system\CLI\Console.php(37): CodeIgniter\CLI\Commands->run('db:create', Array)
+#6 E:\xamp\htdocs\codeigniter_daily_expanse\spark(102): CodeIgniter\CLI\Console->run()
+#7 {main}
+ERROR - 2023-10-11 05:36:54 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\Database.php(66): CodeIgniter\Database\BaseConnection->initialize()
+#3 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\Config.php(108): CodeIgniter\Database\Database->loadForge(Object(CodeIgniter\Database\MySQLi\Connection))
+#4 E:\xamp\htdocs\codeigniter_daily_expanse\system\Commands\Database\CreateDatabase.php(134): CodeIgniter\Database\Config::forge()
+#5 E:\xamp\htdocs\codeigniter_daily_expanse\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\CreateDatabase->run(Array)
+#6 E:\xamp\htdocs\codeigniter_daily_expanse\system\CLI\Console.php(37): CodeIgniter\CLI\Commands->run('db:create', Array)
+#7 E:\xamp\htdocs\codeigniter_daily_expanse\spark(102): CodeIgniter\CLI\Console->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\Database.php(66): CodeIgniter\Database\BaseConnection->initialize()
+#2 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\Config.php(108): CodeIgniter\Database\Database->loadForge(Object(CodeIgniter\Database\MySQLi\Connection))
+#3 E:\xamp\htdocs\codeigniter_daily_expanse\system\Commands\Database\CreateDatabase.php(134): CodeIgniter\Database\Config::forge()
+#4 E:\xamp\htdocs\codeigniter_daily_expanse\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\CreateDatabase->run(Array)
+#5 E:\xamp\htdocs\codeigniter_daily_expanse\system\CLI\Console.php(37): CodeIgniter\CLI\Commands->run('db:create', Array)
+#6 E:\xamp\htdocs\codeigniter_daily_expanse\spark(102): CodeIgniter\CLI\Console->run()
+#7 {main}
+CRITICAL - 2023-10-11 07:51:32 --> Allowed fields must be specified for model: "App\Models\CategoryModel"
+in SYSTEMPATH\Model.php on line 736.
+ 1 SYSTEMPATH\Model.php(736): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\CategoryModel')
+ 2 SYSTEMPATH\BaseModel.php(763): CodeIgniter\Model->doProtectFieldsForInsert([...])
+ 3 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 4 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 5 APPPATH\Controllers\CategoryController.php(23): CodeIgniter\BaseModel->save([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAdd()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 07:51:47 --> Allowed fields must be specified for model: "App\Models\CategoryModel"
+in SYSTEMPATH\Model.php on line 736.
+ 1 SYSTEMPATH\Model.php(736): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\CategoryModel')
+ 2 SYSTEMPATH\BaseModel.php(763): CodeIgniter\Model->doProtectFieldsForInsert([...])
+ 3 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 4 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 5 APPPATH\Controllers\CategoryController.php(23): CodeIgniter\BaseModel->save([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAdd()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 07:52:31 --> Allowed fields must be specified for model: "App\Models\CategoryModel"
+in SYSTEMPATH\Model.php on line 736.
+ 1 SYSTEMPATH\Model.php(736): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\CategoryModel')
+ 2 SYSTEMPATH\BaseModel.php(763): CodeIgniter\Model->doProtectFieldsForInsert([...])
+ 3 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 4 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 5 APPPATH\Controllers\CategoryController.php(23): CodeIgniter\BaseModel->save([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAdd()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 07:55:19 --> Allowed fields must be specified for model: "App\Models\CategoryModel"
+in SYSTEMPATH\Model.php on line 736.
+ 1 SYSTEMPATH\Model.php(736): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\CategoryModel')
+ 2 SYSTEMPATH\BaseModel.php(763): CodeIgniter\Model->doProtectFieldsForInsert([...])
+ 3 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 4 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 5 APPPATH\Controllers\CategoryController.php(23): CodeIgniter\BaseModel->save([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAdd()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 07:55:21 --> Allowed fields must be specified for model: "App\Models\CategoryModel"
+in SYSTEMPATH\Model.php on line 736.
+ 1 SYSTEMPATH\Model.php(736): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\CategoryModel')
+ 2 SYSTEMPATH\BaseModel.php(763): CodeIgniter\Model->doProtectFieldsForInsert([...])
+ 3 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 4 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 5 APPPATH\Controllers\CategoryController.php(23): CodeIgniter\BaseModel->save([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAdd()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 07:55:27 --> Allowed fields must be specified for model: "App\Models\CategoryModel"
+in SYSTEMPATH\Model.php on line 736.
+ 1 SYSTEMPATH\Model.php(736): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\CategoryModel')
+ 2 SYSTEMPATH\BaseModel.php(763): CodeIgniter\Model->doProtectFieldsForInsert([...])
+ 3 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 4 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 5 APPPATH\Controllers\CategoryController.php(23): CodeIgniter\BaseModel->save([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAdd()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 07:55:28 --> Allowed fields must be specified for model: "App\Models\CategoryModel"
+in SYSTEMPATH\Model.php on line 736.
+ 1 SYSTEMPATH\Model.php(736): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\CategoryModel')
+ 2 SYSTEMPATH\BaseModel.php(763): CodeIgniter\Model->doProtectFieldsForInsert([...])
+ 3 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 4 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 5 APPPATH\Controllers\CategoryController.php(23): CodeIgniter\BaseModel->save([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAdd()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 07:55:29 --> Allowed fields must be specified for model: "App\Models\CategoryModel"
+in SYSTEMPATH\Model.php on line 736.
+ 1 SYSTEMPATH\Model.php(736): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\CategoryModel')
+ 2 SYSTEMPATH\BaseModel.php(763): CodeIgniter\Model->doProtectFieldsForInsert([...])
+ 3 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 4 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 5 APPPATH\Controllers\CategoryController.php(23): CodeIgniter\BaseModel->save([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAdd()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 07:57:18 --> Allowed fields must be specified for model: "App\Models\CategoryModel"
+in SYSTEMPATH\Model.php on line 736.
+ 1 SYSTEMPATH\Model.php(736): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\CategoryModel')
+ 2 SYSTEMPATH\BaseModel.php(763): CodeIgniter\Model->doProtectFieldsForInsert([...])
+ 3 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 4 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 5 APPPATH\Controllers\CategoryController.php(24): CodeIgniter\BaseModel->save([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAdd()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 07:57:21 --> Allowed fields must be specified for model: "App\Models\CategoryModel"
+in SYSTEMPATH\Model.php on line 736.
+ 1 SYSTEMPATH\Model.php(736): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\CategoryModel')
+ 2 SYSTEMPATH\BaseModel.php(763): CodeIgniter\Model->doProtectFieldsForInsert([...])
+ 3 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 4 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 5 APPPATH\Controllers\CategoryController.php(24): CodeIgniter\BaseModel->save([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAdd()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 19:17:27 --> mysqli_sql_exception: Unknown column 'name' in 'field list' in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ca...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(698): CodeIgniter\Model->insert(Array, false)
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(20): CodeIgniter\BaseModel->save(Array)
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAddf()
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2023-10-11 19:17:27 --> Unknown column 'name' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `category` (`name`) VALUES (:name:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\CategoryController.php(20): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAddf()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 19:19:36 --> mysqli_sql_exception: Unknown column 'name' in 'field list' in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ca...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(698): CodeIgniter\Model->insert(Array, false)
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(20): CodeIgniter\BaseModel->save(Array)
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAddf()
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2023-10-11 19:19:36 --> Unknown column 'name' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `category` (`name`) VALUES (:name:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\CategoryController.php(20): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAddf()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 19:19:41 --> mysqli_sql_exception: Unknown column 'name' in 'field list' in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ca...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(698): CodeIgniter\Model->insert(Array, false)
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(20): CodeIgniter\BaseModel->save(Array)
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAddf()
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2023-10-11 19:19:41 --> Unknown column 'name' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `category` (`name`) VALUES (:name:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\CategoryController.php(20): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAddf()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 19:19:45 --> mysqli_sql_exception: Unknown column 'name' in 'field list' in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ca...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(698): CodeIgniter\Model->insert(Array, false)
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(20): CodeIgniter\BaseModel->save(Array)
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAddf()
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2023-10-11 19:19:45 --> Unknown column 'name' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `category` (`name`) VALUES (:name:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\CategoryController.php(20): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAddf()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 19:21:19 --> mysqli_sql_exception: Unknown column 'name' in 'field list' in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ca...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(698): CodeIgniter\Model->insert(Array, false)
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(20): CodeIgniter\BaseModel->save(Array)
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAddf()
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2023-10-11 19:21:19 --> Unknown column 'name' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `category` (`name`) VALUES (:name:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\CategoryController.php(20): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAddf()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 19:21:55 --> mysqli_sql_exception: Unknown column 'name' in 'field list' in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ca...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(698): CodeIgniter\Model->insert(Array, false)
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(20): CodeIgniter\BaseModel->save(Array)
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAddf()
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2023-10-11 19:21:55 --> Unknown column 'name' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `category` (`name`) VALUES (:name:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\CategoryController.php(20): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAddf()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 19:22:05 --> mysqli_sql_exception: Unknown column 'name' in 'field list' in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ca...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(698): CodeIgniter\Model->insert(Array, false)
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(20): CodeIgniter\BaseModel->save(Array)
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAddf()
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2023-10-11 19:22:05 --> Unknown column 'name' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `category` (`name`) VALUES (:name:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\CategoryController.php(20): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAddf()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 19:22:42 --> mysqli_sql_exception: Unknown column 'name' in 'field list' in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ca...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(698): CodeIgniter\Model->insert(Array, false)
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(20): CodeIgniter\BaseModel->save(Array)
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAddf()
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2023-10-11 19:22:42 --> Unknown column 'name' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `category` (`name`) VALUES (:name:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\CategoryController.php(20): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAddf()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 19:24:16 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 768.
+ 1 SYSTEMPATH\BaseModel.php(768): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([], false)
+ 3 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 4 APPPATH\Controllers\CategoryController.php(20): CodeIgniter\BaseModel->save([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->categoryAddf()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 19:33:01 --> Invalid file: "pages/category/categoryAdd.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/category/categoryAdd.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/categoryAdd', [], true)
+ 3 APPPATH\Controllers\CategoryController.php(9): view('pages/category/categoryAdd')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 19:33:09 --> Invalid file: "pages/category/categoryAdd.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/category/categoryAdd.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/categoryAdd', [], true)
+ 3 APPPATH\Controllers\CategoryController.php(9): view('pages/category/categoryAdd')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 20:01:28 --> Undefined array key "id"
+in APPPATH\Views\pages\category\categoryView.php on line 29.
+ 1 APPPATH\Views\pages\category\categoryView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\categoryView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\categoryView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/categoryView', [], true)
+ 5 APPPATH\Controllers\CategoryController.php(28): view('pages/category/categoryView', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcategory()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 20:07:13 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/cateView', [], true)
+ 5 APPPATH\Controllers\CategoryController.php(28): view('pages/category/cateView', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 20:08:53 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/cateView', [], true)
+ 5 APPPATH\Controllers\CategoryController.php(28): view('pages/category/cateView', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 20:10:13 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CategoryController.php(28): view('pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 20:10:15 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CategoryController.php(28): view('pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 20:10:15 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CategoryController.php(28): view('pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 20:10:33 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CategoryController.php(28): view('pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 20:14:15 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CategoryController.php(28): view('pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 20:15:48 --> Undefined variable $viewC
+in APPPATH\Views\pages\category\cateView.php on line 23.
+ 1 APPPATH\Views\pages\category\cateView.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $viewC', 'D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 23)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CategoryController.php(28): view('pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 20:16:09 --> Undefined variable $viewC
+in APPPATH\Views\pages\category\cateView.php on line 23.
+ 1 APPPATH\Views\pages\category\cateView.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $viewC', 'D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 23)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CategoryController.php(28): view('pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 20:18:35 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CategoryController.php(28): view('pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 20:20:27 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CategoryController.php(28): view('pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 20:20:29 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CategoryController.php(28): view('pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 20:20:30 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CategoryController.php(28): view('pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 20:20:30 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CategoryController.php(28): view('pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 20:21:09 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CategoryController.php(28): view('pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 20:21:44 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CategoryController.php(28): view('pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 20:30:45 --> mysqli_sql_exception: Table 'cidet.categorie' doesn't exist in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-10-11 20:30:45 --> Table 'cidet.categorie' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `categorie`
+ORDER BY `cate_id` DESC', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 20:30:47 --> mysqli_sql_exception: Table 'cidet.categorie' doesn't exist in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-10-11 20:30:47 --> Table 'cidet.categorie' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `categorie`
+ORDER BY `cate_id` DESC', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 20:33:41 --> mysqli_sql_exception: Table 'cidet.categorie' doesn't exist in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-10-11 20:33:41 --> Table 'cidet.categorie' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `categorie`
+ORDER BY `cate_id` DESC', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 20:33:50 --> mysqli_sql_exception: Table 'cidet.categorie' doesn't exist in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-10-11 20:33:51 --> Table 'cidet.categorie' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `categorie`
+ORDER BY `cate_id` DESC', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 20:34:19 --> mysqli_sql_exception: Table 'cidet.categorie' doesn't exist in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-10-11 20:34:19 --> Table 'cidet.categorie' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `categorie`
+ORDER BY `cate_id` DESC', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 20:34:25 --> mysqli_sql_exception: Table 'cidet.categorie' doesn't exist in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-10-11 20:34:25 --> Table 'cidet.categorie' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `categorie`
+ORDER BY `cate_id` DESC', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 20:35:07 --> mysqli_sql_exception: Table 'cidet.categorie' doesn't exist in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-10-11 20:35:07 --> Table 'cidet.categorie' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `categorie`
+ORDER BY `cate_id` DESC', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 20:35:14 --> mysqli_sql_exception: Table 'cidet.categorie' doesn't exist in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-10-11 20:35:14 --> Table 'cidet.categorie' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `categorie`
+ORDER BY `cate_id` DESC', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 20:37:33 --> mysqli_sql_exception: Table 'cidet.categorie' doesn't exist in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-10-11 20:37:33 --> Table 'cidet.categorie' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `categorie`
+ORDER BY `cate_id` DESC', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 20:37:39 --> mysqli_sql_exception: Table 'cidet.categorie' doesn't exist in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-10-11 20:37:39 --> Table 'cidet.categorie' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `categorie`
+ORDER BY `cate_id` DESC', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 20:39:46 --> mysqli_sql_exception: Table 'cidet.categorie' doesn't exist in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-10-11 20:39:46 --> Table 'cidet.categorie' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `categorie`
+ORDER BY `cate_id` DESC', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 20:39:53 --> mysqli_sql_exception: Table 'cidet.categorie' doesn't exist in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-10-11 20:39:53 --> Table 'cidet.categorie' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `categorie`
+ORDER BY `cate_id` DESC', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 20:39:57 --> mysqli_sql_exception: Table 'cidet.categorie' doesn't exist in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-10-11 20:39:57 --> Table 'cidet.categorie' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `categorie`
+ORDER BY `cate_id` DESC', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 20:40:23 --> mysqli_sql_exception: Table 'cidet.categorie' doesn't exist in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-10-11 20:40:23 --> Table 'cidet.categorie' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `categorie`
+ORDER BY `cate_id` DESC', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-11 20:59:22 --> Invalid file: "pages/bristy/bristyView.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/bristy/bristyView.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/bristy/bristyView', [], true)
+ 3 APPPATH\Controllers\BristyController.php(30): view('pages/bristy/bristyView', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\BristyController->fetchbristy()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BristyController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-11 21:05:33 --> mysqli_sql_exception: Table 'cidet.categorie' doesn't exist in D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\codeigniter_daily_expanse\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\codeigniter_daily_expanse\app\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+#8 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#9 D:\xampp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-10-11 21:05:33 --> Table 'cidet.categorie' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `categorie`
+ORDER BY `cate_id` DESC', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\CategoryController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CategoryController->fetchcat()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')

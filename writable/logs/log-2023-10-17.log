@@ -1,0 +1,920 @@
+CRITICAL - 2023-10-17 04:20:02 --> Invalid file: "pages/category/catAdd.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/category/catAdd.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/catAdd', [], true)
+ 3 APPPATH\Controllers\CateController.php(11): view('pages/category/catAdd')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 04:22:41 --> Invalid file: "pages/category/catAdd.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/category/catAdd.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/catAdd', [], true)
+ 3 APPPATH\Controllers\CateController.php(11): view('pages/category/catAdd')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 04:23:00 --> Invalid file: "pages/category/catAdd.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/category/catAdd.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/catAdd', [], true)
+ 3 APPPATH\Controllers\CateController.php(11): view('pages/category/catAdd')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 04:23:23 --> Invalid file: "pages/category/catAdd.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/category/catAdd.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/catAdd', [], true)
+ 3 APPPATH\Controllers\CateController.php(11): view('pages/category/catAdd')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 04:25:25 --> Invalid file: "pages/category/catAdd.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/category/catAdd.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/catAdd', [], true)
+ 3 APPPATH\Controllers\CateController.php(11): view('pages/category/catAdd')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 04:30:55 --> Invalid file: "pages/category/catAdd.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/category/catAdd.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/category/catAdd', [], true)
+ 3 APPPATH\Controllers\CateController.php(11): view('pages/category/catAdd')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 04:39:47 --> Class "App\Controllers\CateModel" not found
+in APPPATH\Controllers\CateController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->cateAdd()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 04:41:01 --> Class "App\Controllers\CateModel" not found
+in APPPATH\Controllers\CateController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->cateAdd()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 04:41:05 --> Class "App\Controllers\CateModel" not found
+in APPPATH\Controllers\CateController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->cateAdd()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 04:41:07 --> Class "App\Controllers\CateModel" not found
+in APPPATH\Controllers\CateController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->cateAdd()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 04:41:37 --> Class "App\Controllers\CateModel" not found
+in APPPATH\Controllers\CateController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->cateAdd()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 04:44:19 --> Class "App\Controllers\CateModel" not found
+in APPPATH\Controllers\CateController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->cateAdd()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 04:44:27 --> Class "App\Controllers\CateModel" not found
+in APPPATH\Controllers\CateController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->cateAdd()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 05:04:08 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CateController.php(30): view('/pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 05:04:20 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CateController.php(30): view('/pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 05:25:15 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CateController.php(30): view('/pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 05:25:18 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CateController.php(30): view('/pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 05:26:44 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CateController.php(30): view('/pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 05:26:49 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CateController.php(30): view('/pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 05:28:29 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CateController.php(30): view('/pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 05:28:37 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CateController.php(30): view('/pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 05:29:31 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CateController.php(30): view('/pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 05:29:34 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CateController.php(30): view('/pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 05:30:18 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CateController.php(30): view('/pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 05:30:28 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CateController.php(30): view('/pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 05:30:35 --> Undefined array key "id"
+in APPPATH\Views\pages\category\cateView.php on line 29.
+ 1 APPPATH\Views\pages\category\cateView.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/category/cateView.php', [], true)
+ 5 APPPATH\Controllers\CateController.php(30): view('/pages/category/cateView.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 08:10:08 --> Undefined variable $category
+in APPPATH\Views\pages\expanse\exAdd.php on line 24.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $category', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(12): view('pages/expanse/exAdd')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 14:25:56 --> Undefined variable $category
+in APPPATH\Views\pages\expanse\exAdd.php on line 24.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $category', 'C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(12): view('pages/expanse/exAdd')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 14:26:00 --> Undefined variable $category
+in APPPATH\Views\pages\expanse\exAdd.php on line 24.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $category', 'C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(12): view('pages/expanse/exAdd')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 14:28:13 --> Undefined variable $category
+in APPPATH\Views\pages\expanse\exAdd.php on line 24.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $category', 'C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(12): view('pages/expanse/exAdd')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 14:28:58 --> Undefined variable $category
+in APPPATH\Views\pages\expanse\exAdd.php on line 24.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $category', 'C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(12): view('pages/expanse/exAdd')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 14:29:10 --> Undefined variable $category
+in APPPATH\Views\pages\expanse\exAdd.php on line 24.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $category', 'C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(12): view('pages/expanse/exAdd')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 14:32:25 --> Undefined variable $category
+in APPPATH\Views\pages\expanse\exAdd.php on line 24.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $category', 'C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(15): view('pages/expanse/exAdd')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 14:32:26 --> Undefined variable $category
+in APPPATH\Views\pages\expanse\exAdd.php on line 24.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $category', 'C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(15): view('pages/expanse/exAdd')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 14:32:26 --> Undefined variable $category
+in APPPATH\Views\pages\expanse\exAdd.php on line 24.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $category', 'C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(15): view('pages/expanse/exAdd')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 14:32:26 --> Undefined variable $category
+in APPPATH\Views\pages\expanse\exAdd.php on line 24.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $category', 'C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(15): view('pages/expanse/exAdd')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 14:32:27 --> Undefined variable $category
+in APPPATH\Views\pages\expanse\exAdd.php on line 24.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $category', 'C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(15): view('pages/expanse/exAdd')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 14:32:27 --> Undefined variable $category
+in APPPATH\Views\pages\expanse\exAdd.php on line 24.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $category', 'C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(15): view('pages/expanse/exAdd')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 14:32:28 --> Undefined variable $category
+in APPPATH\Views\pages\expanse\exAdd.php on line 24.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $category', 'C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(15): view('pages/expanse/exAdd')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 14:32:28 --> Undefined variable $category
+in APPPATH\Views\pages\expanse\exAdd.php on line 24.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $category', 'C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(15): view('pages/expanse/exAdd')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 14:32:36 --> Undefined array key "name"
+in APPPATH\Views\pages\expanse\exAdd.php on line 25.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 25)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(15): view('pages/expanse/exAdd', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 14:32:37 --> Undefined array key "name"
+in APPPATH\Views\pages\expanse\exAdd.php on line 25.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 25)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(15): view('pages/expanse/exAdd', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 14:32:37 --> Undefined array key "name"
+in APPPATH\Views\pages\expanse\exAdd.php on line 25.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 25)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(15): view('pages/expanse/exAdd', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 14:41:58 --> Undefined variable $viewC
+in APPPATH\Views\pages\expanse\exView.php on line 23.
+ 1 APPPATH\Views\pages\expanse\exView.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $viewC', 'C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exView.php', 23)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exView.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/expanse/exView', [], true)
+ 5 APPPATH\Controllers\ExController.php(37): view('/pages/expanse/exView', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->fetchcat()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 14:52:54 --> Trying to access array offset on value of type null
+in APPPATH\Views\pages\category\cateEdit.php on line 11.
+ 1 APPPATH\Views\pages\category\cateEdit.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateEdit.php', 11)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateEdit.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/category/cateEdit.php', [], true)
+ 5 APPPATH\Controllers\CateController.php(45): view('/pages/category/cateEdit.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->Edit('4')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 14:56:25 --> Trying to access array offset on value of type null
+in APPPATH\Views\pages\category\cateEdit.php on line 11.
+ 1 APPPATH\Views\pages\category\cateEdit.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateEdit.php', 11)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateEdit.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/category/cateEdit.php', [], true)
+ 5 APPPATH\Controllers\CateController.php(45): view('/pages/category/cateEdit.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CateController->Edit('4')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CateController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 14:58:10 --> Trying to access array offset on value of type null
+in APPPATH\Views\pages\category\cateEdit.php on line 11.
+ 1 APPPATH\Views\pages\category\cateEdit.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateEdit.php', 11)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateEdit.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/category/cateEdit.php', [], true)
+ 5 APPPATH\Controllers\ExController.php(46): view('/pages/category/cateEdit.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->Edit('4')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 14:58:51 --> Trying to access array offset on value of type null
+in APPPATH\Views\pages\category\cateEdit.php on line 11.
+ 1 APPPATH\Views\pages\category\cateEdit.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateEdit.php', 11)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\category\\cateEdit.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/category/cateEdit.php', [], true)
+ 5 APPPATH\Controllers\ExController.php(46): view('/pages/category/cateEdit.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->Edit('4')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-17 15:02:55 --> mysqli_sql_exception: Unknown column 'cate_id' in 'where clause' in C:\Users\Rakib Ahsan\Desktop\codeigniter_daily_expanse\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\Rakib Ahsan\Desktop\codeigniter_daily_expanse\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Users\Rakib Ahsan\Desktop\codeigniter_daily_expanse\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Users\Rakib Ahsan\Desktop\codeigniter_daily_expanse\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Users\Rakib Ahsan\Desktop\codeigniter_daily_expanse\codeigniter_daily_expanse\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\Rakib Ahsan\Desktop\codeigniter_daily_expanse\codeigniter_daily_expanse\system\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Rakib Ahsan\Desktop\codeigniter_daily_expanse\codeigniter_daily_expanse\system\BaseModel.php(662): CodeIgniter\Model->doFirst()
+#6 C:\Users\Rakib Ahsan\Desktop\codeigniter_daily_expanse\codeigniter_daily_expanse\app\Controllers\ExController.php(47): CodeIgniter\BaseModel->first()
+#7 C:\Users\Rakib Ahsan\Desktop\codeigniter_daily_expanse\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\ExController->Edit('3')
+#8 C:\Users\Rakib Ahsan\Desktop\codeigniter_daily_expanse\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+#9 C:\Users\Rakib Ahsan\Desktop\codeigniter_daily_expanse\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Rakib Ahsan\Desktop\codeigniter_daily_expanse\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Rakib Ahsan\Desktop\codeigniter_daily_expanse\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib ...')
+#12 {main}
+CRITICAL - 2023-10-17 15:02:55 --> Unknown column 'cate_id' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `expanse`
+WHERE `cate_id` = :cate_id:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(662): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Controllers\ExController.php(47): CodeIgniter\BaseModel->first()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->Edit('3')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 15:13:08 --> Undefined array key "ex_id"
+in APPPATH\Views\pages\expanse\exEdit.php on line 11.
+ 1 APPPATH\Views\pages\expanse\exEdit.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "ex_id"', 'C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exEdit.php', 11)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exEdit.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/expanse/exEdit.php', [], true)
+ 5 APPPATH\Controllers\ExController.php(47): view('/pages/expanse/exEdit.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->Edit('4')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Rakib Ahsan\\Desktop\\codeigniter_daily_expanse\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-17 19:06:59 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-10-17 19:06:59 --> Uncaught Error: Class "Locale" not found in D:\XAMPP\htdocs\codeigniter_daily_expanse\codeigniter_daily_expanse\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 D:\XAMPP\htdocs\codeigniter_daily_expanse\codeigniter_daily_expanse\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 D:\XAMPP\htdocs\codeigniter_daily_expanse\codeigniter_daily_expanse\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 D:\XAMPP\htdocs\codeigniter_daily_expanse\codeigniter_daily_expanse\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 D:\XAMPP\htdocs\codeigniter_daily_expanse\codeigniter_daily_expanse\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 D:\XAMPP\htdocs\codeigniter_daily_expanse\codeigniter_daily_expanse\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 D:\XAMPP\htdocs\codeigniter_daily_expanse\codeigniter_daily_expanse\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-17 19:07:42 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-10-17 19:07:42 --> Uncaught Error: Class "Locale" not found in D:\XAMPP\htdocs\codeigniter_daily_expanse\codeigniter_daily_expanse\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 D:\XAMPP\htdocs\codeigniter_daily_expanse\codeigniter_daily_expanse\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 D:\XAMPP\htdocs\codeigniter_daily_expanse\codeigniter_daily_expanse\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 D:\XAMPP\htdocs\codeigniter_daily_expanse\codeigniter_daily_expanse\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 D:\XAMPP\htdocs\codeigniter_daily_expanse\codeigniter_daily_expanse\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 D:\XAMPP\htdocs\codeigniter_daily_expanse\codeigniter_daily_expanse\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 D:\XAMPP\htdocs\codeigniter_daily_expanse\codeigniter_daily_expanse\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-17 19:11:57 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-10-17 19:11:58 --> Uncaught Error: Class "Locale" not found in D:\XAMPP\htdocs\codeigniter_daily_expanse\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 D:\XAMPP\htdocs\codeigniter_daily_expanse\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-17 19:22:41 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-10-17 19:22:41 --> Uncaught Error: Class "Locale" not found in D:\XAMPP\htdocs\codeigniter_daily_expanse\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Debug\Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 D:\XAMPP\htdocs\codeigniter_daily_expanse\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+ERROR - 2023-10-17 18:53:22 --> mysqli_sql_exception: Column 'ex_amount' cannot be null in D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ex...', 0)
+#1 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ex...')
+#2 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ex...')
+#3 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ex...', Array, false)
+#4 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\BaseModel.php(698): CodeIgniter\Model->insert(Array, false)
+#8 D:\XAMPP\htdocs\codeigniter_daily_expanse\app\Controllers\ExController.php(28): CodeIgniter\BaseModel->save(Array)
+#9 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\ExController->exAdd()
+#10 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+#11 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\XAMPP\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\XAMPP\\htdocs...')
+#14 {main}
+CRITICAL - 2023-10-17 18:53:22 --> Column 'ex_amount' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `expanse` (`ex_amount`, `date`, `category`) VALUES (:ex_amount:, :date:, :category:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\ExController.php(28): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->exAdd()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\XAMPP\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-17 19:22:59 --> mysqli_sql_exception: Column 'ex_amount' cannot be null in D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ex...', 0)
+#1 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ex...')
+#2 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ex...')
+#3 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ex...', Array, false)
+#4 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\BaseModel.php(698): CodeIgniter\Model->insert(Array, false)
+#8 D:\XAMPP\htdocs\codeigniter_daily_expanse\app\Controllers\ExController.php(28): CodeIgniter\BaseModel->save(Array)
+#9 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\ExController->exAdd()
+#10 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+#11 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\XAMPP\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\XAMPP\\htdocs...')
+#14 {main}
+CRITICAL - 2023-10-17 19:22:59 --> Column 'ex_amount' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `expanse` (`ex_amount`, `date`, `category`) VALUES (:ex_amount:, :date:, :category:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\ExController.php(28): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->exAdd()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\XAMPP\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-17 19:35:35 --> mysqli_sql_exception: Column 'ex_amount' cannot be null in D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ex...', 0)
+#1 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ex...')
+#2 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ex...')
+#3 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ex...', Array, false)
+#4 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\BaseModel.php(698): CodeIgniter\Model->insert(Array, false)
+#8 D:\XAMPP\htdocs\codeigniter_daily_expanse\app\Controllers\ExController.php(28): CodeIgniter\BaseModel->save(Array)
+#9 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\ExController->exAdd()
+#10 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+#11 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\XAMPP\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\XAMPP\\htdocs...')
+#14 {main}
+CRITICAL - 2023-10-17 19:35:35 --> Column 'ex_amount' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `expanse` (`ex_amount`, `date`, `category`) VALUES (:ex_amount:, :date:, :category:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\ExController.php(28): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->exAdd()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\XAMPP\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-17 19:38:25 --> mysqli_sql_exception: Column 'ex_amount' cannot be null in D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ex...', 0)
+#1 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ex...')
+#2 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ex...')
+#3 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ex...', Array, false)
+#4 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\BaseModel.php(698): CodeIgniter\Model->insert(Array, false)
+#8 D:\XAMPP\htdocs\codeigniter_daily_expanse\app\Controllers\ExController.php(28): CodeIgniter\BaseModel->save(Array)
+#9 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\ExController->exAdd()
+#10 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+#11 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\XAMPP\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\XAMPP\\htdocs...')
+#14 {main}
+CRITICAL - 2023-10-17 19:38:25 --> Column 'ex_amount' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `expanse` (`ex_amount`, `date`, `category`) VALUES (:ex_amount:, :date:, :category:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\ExController.php(28): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->exAdd()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\XAMPP\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-17 19:42:07 --> mysqli_sql_exception: Column 'ex_amount' cannot be null in D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ex...', 0)
+#1 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ex...')
+#2 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ex...')
+#3 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ex...', Array, false)
+#4 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\BaseModel.php(698): CodeIgniter\Model->insert(Array, false)
+#8 D:\XAMPP\htdocs\codeigniter_daily_expanse\app\Controllers\ExController.php(28): CodeIgniter\BaseModel->save(Array)
+#9 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\ExController->exAdd()
+#10 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+#11 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\XAMPP\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\XAMPP\\htdocs...')
+#14 {main}
+CRITICAL - 2023-10-17 19:42:07 --> Column 'ex_amount' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `expanse` (`ex_amount`, `date`, `category`) VALUES (:ex_amount:, :date:, :category:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\ExController.php(28): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->exAdd()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\XAMPP\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-17 19:45:50 --> mysqli_sql_exception: Column 'ex_amount' cannot be null in D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ex...', 0)
+#1 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ex...')
+#2 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ex...')
+#3 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ex...', Array, false)
+#4 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\BaseModel.php(698): CodeIgniter\Model->insert(Array, false)
+#8 D:\XAMPP\htdocs\codeigniter_daily_expanse\app\Controllers\ExController.php(28): CodeIgniter\BaseModel->save(Array)
+#9 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\ExController->exAdd()
+#10 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+#11 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\XAMPP\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\XAMPP\\htdocs...')
+#14 {main}
+CRITICAL - 2023-10-17 19:45:50 --> Column 'ex_amount' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `expanse` (`ex_amount`, `date`, `category`) VALUES (:ex_amount:, :date:, :category:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\ExController.php(28): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->exAdd()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\XAMPP\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-17 19:47:43 --> mysqli_sql_exception: Column 'ex_amount' cannot be null in D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ex...', 0)
+#1 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ex...')
+#2 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ex...')
+#3 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ex...', Array, false)
+#4 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\BaseModel.php(698): CodeIgniter\Model->insert(Array, false)
+#8 D:\XAMPP\htdocs\codeigniter_daily_expanse\app\Controllers\ExController.php(28): CodeIgniter\BaseModel->save(Array)
+#9 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\ExController->exAdd()
+#10 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+#11 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\XAMPP\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\XAMPP\\htdocs...')
+#14 {main}
+CRITICAL - 2023-10-17 19:47:43 --> Column 'ex_amount' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `expanse` (`ex_amount`, `date`, `category`) VALUES (:ex_amount:, :date:, :category:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\ExController.php(28): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->exAdd()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\XAMPP\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-17 20:00:16 --> mysqli_sql_exception: Column 'ex_amount' cannot be null in D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ex...', 0)
+#1 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ex...')
+#2 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ex...')
+#3 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ex...', Array, false)
+#4 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\BaseModel.php(698): CodeIgniter\Model->insert(Array, false)
+#8 D:\XAMPP\htdocs\codeigniter_daily_expanse\app\Controllers\ExController.php(28): CodeIgniter\BaseModel->save(Array)
+#9 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\ExController->exAdd()
+#10 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+#11 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\XAMPP\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\XAMPP\\htdocs...')
+#14 {main}
+CRITICAL - 2023-10-17 20:00:16 --> Column 'ex_amount' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `expanse` (`ex_amount`, `date`, `category`) VALUES (:ex_amount:, :date:, :category:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\ExController.php(28): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->exAdd()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\XAMPP\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-17 20:01:15 --> mysqli_sql_exception: Column 'ex_amount' cannot be null in D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ex...', 0)
+#1 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ex...')
+#2 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ex...')
+#3 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ex...', Array, false)
+#4 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\BaseModel.php(698): CodeIgniter\Model->insert(Array, false)
+#8 D:\XAMPP\htdocs\codeigniter_daily_expanse\app\Controllers\ExController.php(28): CodeIgniter\BaseModel->save(Array)
+#9 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\ExController->exAdd()
+#10 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+#11 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\XAMPP\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 D:\XAMPP\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('D:\\XAMPP\\htdocs...')
+#14 {main}
+CRITICAL - 2023-10-17 20:01:15 --> Column 'ex_amount' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `expanse` (`ex_amount`, `date`, `category`) VALUES (:ex_amount:, :date:, :category:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\ExController.php(28): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->exAdd()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\XAMPP\\htdocs\\codeigniter_daily_expanse\\public\\index.php')

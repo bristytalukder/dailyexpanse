@@ -1,0 +1,834 @@
+CRITICAL - 2023-10-18 03:20:43 --> Undefined variable $inCategory
+in APPPATH\Views\pages\income\inAdd.php on line 24.
+ 1 APPPATH\Views\pages\income\inAdd.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $inCategory', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inAdd.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/income/inAdd', [], true)
+ 5 APPPATH\Controllers\InController.php(11): view('pages/income/inAdd')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 03:23:03 --> Undefined variable $inCategory
+in APPPATH\Views\pages\income\inAdd.php on line 24.
+ 1 APPPATH\Views\pages\income\inAdd.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $inCategory', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inAdd.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/income/inAdd', [], true)
+ 5 APPPATH\Controllers\InController.php(11): view('pages/income/inAdd')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 03:25:01 --> Undefined variable $inCategory
+in APPPATH\Views\pages\income\inAdd.php on line 24.
+ 1 APPPATH\Views\pages\income\inAdd.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $inCategory', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inAdd.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/income/inAdd', [], true)
+ 5 APPPATH\Controllers\InController.php(12): view('pages/income/inAdd', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 03:25:02 --> Undefined variable $inCategory
+in APPPATH\Views\pages\income\inAdd.php on line 24.
+ 1 APPPATH\Views\pages\income\inAdd.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $inCategory', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inAdd.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/income/inAdd', [], true)
+ 5 APPPATH\Controllers\InController.php(12): view('pages/income/inAdd', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 03:25:02 --> Undefined variable $inCategory
+in APPPATH\Views\pages\income\inAdd.php on line 24.
+ 1 APPPATH\Views\pages\income\inAdd.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $inCategory', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inAdd.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/income/inAdd', [], true)
+ 5 APPPATH\Controllers\InController.php(12): view('pages/income/inAdd', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 03:25:02 --> Undefined variable $inCategory
+in APPPATH\Views\pages\income\inAdd.php on line 24.
+ 1 APPPATH\Views\pages\income\inAdd.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $inCategory', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inAdd.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/income/inAdd', [], true)
+ 5 APPPATH\Controllers\InController.php(12): view('pages/income/inAdd', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 03:25:02 --> Undefined variable $inCategory
+in APPPATH\Views\pages\income\inAdd.php on line 24.
+ 1 APPPATH\Views\pages\income\inAdd.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $inCategory', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inAdd.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/income/inAdd', [], true)
+ 5 APPPATH\Controllers\InController.php(12): view('pages/income/inAdd', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 03:25:47 --> Undefined array key "inc_id"
+in APPPATH\Views\pages\income\inAdd.php on line 25.
+ 1 APPPATH\Views\pages\income\inAdd.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "inc_id"', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inAdd.php', 25)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/income/inAdd', [], true)
+ 5 APPPATH\Controllers\InController.php(12): view('pages/income/inAdd', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 03:28:45 --> Undefined array key "inc_id"
+in APPPATH\Views\pages\income\inAdd.php on line 25.
+ 1 APPPATH\Views\pages\income\inAdd.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "inc_id"', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inAdd.php', 25)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/income/inAdd', [], true)
+ 5 APPPATH\Controllers\InController.php(12): view('pages/income/inAdd', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+ERROR - 2023-10-18 03:35:34 --> mysqli_sql_exception: Unknown column 'in_category.cateinc_id_id' in 'on clause' in E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\xamp\htdocs\codeigniter_daily_expanse\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\xamp\htdocs\codeigniter_daily_expanse\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\xamp\htdocs\codeigniter_daily_expanse\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 E:\xamp\htdocs\codeigniter_daily_expanse\app\Controllers\InController.php(37): CodeIgniter\BaseModel->findAll()
+#7 E:\xamp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(919): App\Controllers\InController->fetchcat()
+#8 E:\xamp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+#9 E:\xamp\htdocs\codeigniter_daily_expanse\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 E:\xamp\htdocs\codeigniter_daily_expanse\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 E:\xamp\htdocs\codeigniter_daily_expanse\system\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\...')
+#12 {main}
+CRITICAL - 2023-10-18 03:35:34 --> Unknown column 'in_category.cateinc_id_id' in 'on clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `income`
+JOIN `in_category` ON `in_category`.`cateinc_id_id` = `income`.`in_category`
+ORDER BY `in_id` DESC', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\InController.php(37): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->fetchcat()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 03:54:14 --> Undefined array key "name"
+in APPPATH\Views\pages\expanse\exAdd.php on line 25.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 25)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(15): view('pages/expanse/exAdd', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 03:54:19 --> Undefined array key "name"
+in APPPATH\Views\pages\expanse\exAdd.php on line 25.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 25)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(15): view('pages/expanse/exAdd', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 03:56:40 --> Undefined array key "name"
+in APPPATH\Views\pages\expanse\exAdd.php on line 25.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 25)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(15): view('pages/expanse/exAdd', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 03:56:48 --> Undefined array key "name"
+in APPPATH\Views\pages\expanse\exAdd.php on line 25.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 25)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(15): view('pages/expanse/exAdd', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 03:58:20 --> Undefined array key "name"
+in APPPATH\Views\pages\expanse\exAdd.php on line 25.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 25)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(15): view('pages/expanse/exAdd', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 03:58:48 --> Undefined array key "name"
+in APPPATH\Views\pages\expanse\exAdd.php on line 25.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 25)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(15): view('pages/expanse/exAdd', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 04:00:01 --> Undefined array key "name"
+in APPPATH\Views\pages\expanse\exAdd.php on line 25.
+ 1 APPPATH\Views\pages\expanse\exAdd.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php', 25)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\expanse\\exAdd.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/expanse/exAdd', [], true)
+ 5 APPPATH\Controllers\ExController.php(15): view('pages/expanse/exAdd', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ExController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:07:23 --> Undefined variable $inCategory
+in APPPATH\Views\pages\income\inEdit.php on line 24.
+ 1 APPPATH\Views\pages\income\inEdit.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $inCategory', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inEdit.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inEdit.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 5 APPPATH\Controllers\InController.php(49): view('/pages/income/inEdit.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:09:18 --> Undefined variable $inCategory
+in APPPATH\Views\pages\income\inEdit.php on line 24.
+ 1 APPPATH\Views\pages\income\inEdit.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $inCategory', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inEdit.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inEdit.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 5 APPPATH\Controllers\InController.php(49): view('/pages/income/inEdit.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:09:19 --> Undefined variable $inCategory
+in APPPATH\Views\pages\income\inEdit.php on line 24.
+ 1 APPPATH\Views\pages\income\inEdit.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $inCategory', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inEdit.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inEdit.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 5 APPPATH\Controllers\InController.php(49): view('/pages/income/inEdit.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:12:30 --> Undefined variable $inCategory
+in APPPATH\Views\pages\income\inEdit.php on line 24.
+ 1 APPPATH\Views\pages\income\inEdit.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $inCategory', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inEdit.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inEdit.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 5 APPPATH\Controllers\InController.php(49): view('/pages/income/inEdit.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:12:31 --> Undefined variable $inCategory
+in APPPATH\Views\pages\income\inEdit.php on line 24.
+ 1 APPPATH\Views\pages\income\inEdit.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $inCategory', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inEdit.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inEdit.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 5 APPPATH\Controllers\InController.php(49): view('/pages/income/inEdit.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:13:03 --> Undefined variable $inCategory
+in APPPATH\Views\pages\income\inEdit.php on line 24.
+ 1 APPPATH\Views\pages\income\inEdit.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $inCategory', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inEdit.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inEdit.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 5 APPPATH\Controllers\InController.php(49): view('/pages/income/inEdit.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('8')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:14:28 --> Undefined variable $in
+in APPPATH\Views\pages\income\inEdit.php on line 24.
+ 1 APPPATH\Views\pages\income\inEdit.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $in', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inEdit.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inEdit.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 5 APPPATH\Controllers\InController.php(49): view('/pages/income/inEdit.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('8')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:14:30 --> Undefined variable $in
+in APPPATH\Views\pages\income\inEdit.php on line 24.
+ 1 APPPATH\Views\pages\income\inEdit.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $in', 'E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inEdit.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\app\\Views\\pages\\income\\inEdit.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 5 APPPATH\Controllers\InController.php(49): view('/pages/income/inEdit.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('8')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:17:12 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(49): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('8')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:18:16 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(49): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('8')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:18:24 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(49): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:20:18 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(50): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:20:19 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(50): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:20:19 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(50): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:20:19 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(50): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:20:20 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(50): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:20:20 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(50): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:20:20 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(50): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:20:20 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(50): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:20:20 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(50): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:20:21 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(50): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:20:21 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(50): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:20:21 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(50): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:20:21 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(50): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:20:22 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(50): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:20:22 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(50): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:20:22 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(50): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:20:22 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(50): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:20:23 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(50): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:20:23 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(50): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:20:23 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\income\inEdit.php on line 25.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/pages/income/inEdit.php', [], true)
+ 4 APPPATH\Controllers\InController.php(50): view('/pages/income/inEdit.php', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\InController->Edit('12')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 05:35:17 --> Class "App\Controllers\InModel" not found
+in APPPATH\Controllers\DashboardController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\DashboardController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 07:00:23 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Controllers\LoginController.php(12): view('login')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 07:00:52 --> Invalid file: "author/login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('author/login.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('author/login', [], true)
+ 3 APPPATH\Controllers\LoginController.php(12): view('author/login')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 07:00:52 --> Invalid file: "author/login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('author/login.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('author/login', [], true)
+ 3 APPPATH\Controllers\LoginController.php(12): view('author/login')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 07:00:53 --> Invalid file: "author/login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('author/login.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('author/login', [], true)
+ 3 APPPATH\Controllers\LoginController.php(12): view('author/login')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 07:00:53 --> Invalid file: "author/login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('author/login.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('author/login', [], true)
+ 3 APPPATH\Controllers\LoginController.php(12): view('author/login')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+INFO - 2023-10-18 07:25:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:25:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:27:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:28:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:28:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:30:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:30:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:32:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:32:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:32:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:33:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:33:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:34:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:34:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:35:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-18 07:40:34 --> Invalid file: "signup.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('signup.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('signup', [], true)
+ 3 APPPATH\Controllers\LoginController.php(48): view('signup')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->signup()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+INFO - 2023-10-18 07:42:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-18 07:42:54 --> Invalid file: "signup.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('signup.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('signup', [], true)
+ 3 APPPATH\Controllers\LoginController.php(48): view('signup')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->signup()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+INFO - 2023-10-18 07:43:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:43:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-18 07:43:57 --> Call to undefined function set_value()
+in APPPATH\Views\pages\author\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/author/signup', [], true)
+ 4 APPPATH\Controllers\LoginController.php(48): view('pages/author/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->signup()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 07:44:47 --> Call to undefined function set_value()
+in APPPATH\Views\pages\author\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/author/signup', [], true)
+ 4 APPPATH\Controllers\LoginController.php(48): view('pages/author/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->signup()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+INFO - 2023-10-18 07:44:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:44:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-18 07:44:53 --> Call to undefined function set_value()
+in APPPATH\Views\pages\author\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/author/signup', [], true)
+ 4 APPPATH\Controllers\LoginController.php(48): view('pages/author/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->signup()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 07:44:53 --> Call to undefined function set_value()
+in APPPATH\Views\pages\author\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/author/signup', [], true)
+ 4 APPPATH\Controllers\LoginController.php(48): view('pages/author/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->signup()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+INFO - 2023-10-18 07:45:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:46:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:46:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:46:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:46:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-18 07:46:54 --> Call to undefined function set_value()
+in APPPATH\Views\pages\author\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/author/signup', [], true)
+ 4 APPPATH\Controllers\LoginController.php(48): view('pages/author/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->signup()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+CRITICAL - 2023-10-18 07:46:54 --> Call to undefined function set_value()
+in APPPATH\Views\pages\author\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/author/signup', [], true)
+ 4 APPPATH\Controllers\LoginController.php(48): view('pages/author/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->signup()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+INFO - 2023-10-18 07:47:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:47:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:47:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:47:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:48:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:48:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:48:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:48:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:48:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:48:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:48:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-18 07:48:56 --> Call to undefined function set_value()
+in APPPATH\Views\pages\author\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/author/signup', [], true)
+ 4 APPPATH\Controllers\LoginController.php(48): view('pages/author/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->signup()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+INFO - 2023-10-18 07:48:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-18 07:49:04 --> Call to undefined function set_value()
+in APPPATH\Views\pages\author\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/author/signup', [], true)
+ 4 APPPATH\Controllers\LoginController.php(48): view('pages/author/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->signup()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+INFO - 2023-10-18 07:49:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:49:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:52:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:52:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:54:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:54:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:54:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:56:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:56:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:56:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:56:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:56:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:56:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:56:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:56:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:57:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:57:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:57:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:57:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:57:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-18 07:57:20 --> Call to undefined function set_value()
+in APPPATH\Views\pages\author\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/author/signup', [], true)
+ 4 APPPATH\Controllers\LoginController.php(48): view('pages/author/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->signup()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+INFO - 2023-10-18 07:57:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:57:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:57:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 07:57:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-18 07:58:00 --> Call to undefined function set_value()
+in APPPATH\Views\pages\author\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/author/signup', [], true)
+ 4 APPPATH\Controllers\LoginController.php(48): view('pages/author/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->signup()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+INFO - 2023-10-18 07:58:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-18 07:58:16 --> Call to undefined function set_value()
+in APPPATH\Views\pages\author\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pages/author/signup', [], true)
+ 4 APPPATH\Controllers\LoginController.php(48): view('pages/author/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\LoginController->signup()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xamp\\htdocs\\codeigniter_daily_expanse\\public\\index.php')
+INFO - 2023-10-18 07:58:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-18 08:00:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
